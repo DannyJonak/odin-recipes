@@ -1,4 +1,22 @@
 .button {
-    background-color: #c2f2e3;
     font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 36px;
+}
+
+.home {
+    background-color: rgba(149, 234, 255, 0.795);
+    font-size:20px;
+}
+
+.paprikash {
+    background-color: rgba(255, 0, 0, 0.3)
+}
+
+.tea {
+    background-color: rgba(161, 124, 90, 0.5)
+}
+
+.fudge {
+    background-color: rgb(253, 229, 147);
 }
