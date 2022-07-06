@@ -2,6 +2,7 @@
     font-family: Arial, Helvetica, sans-serif;
     color: black;
     font-size: 36px;
+    border: 2px solid black;
 }
 
 .home {
@@ -11,15 +12,19 @@
 }
 
 .paprikash {
-    background-color: rgba(255, 0, 0, 0.3)
+    background-color: rgba(255, 0, 0, 0.3);
 }
 
 .tea {
-    background-color: rgba(161, 124, 90, 0.5)
+    background-color: rgba(161, 124, 90, 0.5);
 }
 
 .fudge {
     background-color: rgb(253, 229, 147);
+}
+
+.links {
+    margin: 5px;
 }
 
 h1 {
@@ -32,9 +37,13 @@ h1 {
 }
 
 h3 {
-    background-color: rgba(0, 255, 0, 0.3)
+    background-color: rgba(0, 255, 0, 0.3);
+    margin: 0;
+    border: 2px solid black;
 }
 
 .content {
-    background-color:rgba(0, 255, 0, 0.1)
+    background-color:rgba(0, 255, 0, 0.1);
+    margin: 0;
+    padding: 20px;
 }
